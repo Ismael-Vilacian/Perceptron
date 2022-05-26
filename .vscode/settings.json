@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ISMAE\\Downloads\\json-simple-1.1.1.jar",
+        "c:\\Users\\ISMAE\\Downloads\\gson-2.6.2.jar",
+        "c:\\Users\\ISMAE\\Downloads\\jar_files\\opencsv-3.4.jar"
+    ]
+}
